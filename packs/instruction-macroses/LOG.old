@@ -1,0 +1,11 @@
+2025/10/13-19:30:00.555 94dc Recovering log #11
+2025/10/13-19:30:00.555 94dc Level-0 table #13: started
+2025/10/13-19:30:00.559 94dc Level-0 table #13: 8504 bytes OK
+2025/10/13-19:30:00.568 94dc Delete type=0 #11
+2025/10/13-19:30:00.568 94dc Delete type=3 #10
+2025/10/13-21:46:02.780 a7bc Compacting 1@0 + 1@1 files
+2025/10/13-21:46:02.784 a7bc Generated table #15@0: 50 keys, 34281 bytes
+2025/10/13-21:46:02.784 a7bc Compacted 1@0 + 1@1 files => 34281 bytes
+2025/10/13-21:46:02.788 a7bc compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/10/13-21:46:02.788 a7bc Delete type=2 #9
+2025/10/13-21:46:02.788 a7bc Delete type=2 #13
