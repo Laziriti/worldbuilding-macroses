@@ -1,15 +1,7 @@
-2025/10/17-23:33:00.975 5f6c Recovering log #92
-2025/10/17-23:33:00.975 5f6c Level-0 table #94: started
-2025/10/17-23:33:00.978 5f6c Level-0 table #94: 72770 bytes OK
-2025/10/17-23:33:00.987 5f6c Delete type=2 #9
-2025/10/17-23:33:00.987 5f6c Delete type=2 #13
-2025/10/17-23:33:00.987 5f6c Delete type=2 #16
-2025/10/17-23:33:00.987 5f6c Delete type=0 #17
-2025/10/17-23:33:00.987 5f6c Delete type=2 #19
-2025/10/17-23:33:00.987 5f6c Delete type=0 #20
-2025/10/17-23:33:00.987 5f6c Delete type=0 #74
-2025/10/17-23:33:00.987 5f6c Delete type=0 #92
-2025/10/17-23:33:00.987 5f6c Delete type=3 #15
-2025/10/17-23:33:00.987 5f6c Delete type=3 #18
-2025/10/17-23:33:00.987 5f6c Delete type=3 #73
-2025/10/17-23:33:00.987 5f6c Delete type=3 #91
+2025/10/18-18:09:19.969 35dc Recovering log #101
+2025/10/18-18:09:19.977 35dc Delete type=0 #101
+2025/10/18-18:09:19.977 35dc Delete type=3 #98
+2025/10/18-20:16:58.296 9c54 Level-0 table #107: started
+2025/10/18-20:16:58.296 9c54 Level-0 table #107: 0 bytes OK
+2025/10/18-20:16:58.300 9c54 Delete type=0 #105
+2025/10/18-20:16:58.325 9c54 Manual compaction at level-0 from '!folders!075tI0VUewkXjnfc' @ 72057594037927935 : 1 .. '!macros!zIgOm9qT02b5h4lw' @ 0 : 0; will stop at (end)

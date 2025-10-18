@@ -1,16 +1,7 @@
-2025/10/17-23:33:00.959 a5e8 Recovering log #94
-2025/10/17-23:33:00.959 a5e8 Level-0 table #96: started
-2025/10/17-23:33:00.963 a5e8 Level-0 table #96: 36606 bytes OK
-2025/10/17-23:33:00.972 a5e8 Delete type=2 #9
-2025/10/17-23:33:00.972 a5e8 Delete type=2 #13
-2025/10/17-23:33:00.972 a5e8 Delete type=2 #16
-2025/10/17-23:33:00.972 a5e8 Delete type=0 #17
-2025/10/17-23:33:00.972 a5e8 Delete type=2 #19
-2025/10/17-23:33:00.972 a5e8 Delete type=0 #20
-2025/10/17-23:33:00.972 a5e8 Delete type=2 #24
-2025/10/17-23:33:00.972 a5e8 Delete type=0 #74
-2025/10/17-23:33:00.972 a5e8 Delete type=0 #94
-2025/10/17-23:33:00.972 a5e8 Delete type=3 #15
-2025/10/17-23:33:00.973 a5e8 Delete type=3 #18
-2025/10/17-23:33:00.973 a5e8 Delete type=3 #73
-2025/10/17-23:33:00.973 a5e8 Delete type=3 #93
+2025/10/18-18:09:19.959 9830 Recovering log #104
+2025/10/18-18:09:19.966 9830 Delete type=0 #104
+2025/10/18-18:09:19.966 9830 Delete type=3 #101
+2025/10/18-20:16:58.573 9c54 Level-0 table #110: started
+2025/10/18-20:16:58.573 9c54 Level-0 table #110: 0 bytes OK
+2025/10/18-20:16:58.577 9c54 Delete type=0 #108
+2025/10/18-20:16:58.599 9c54 Manual compaction at level-0 from '!folders!77vnUYsEvjo4z3Q2' @ 72057594037927935 : 1 .. '!macros!zumrBxmNyUrNohr9' @ 0 : 0; will stop at (end)
