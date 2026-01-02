@@ -1,67 +1,7 @@
-2025/12/05-17:57:12.314 8dd8 Recovering log #324
-2025/12/05-17:57:12.314 8dd8 Level-0 table #326: started
-2025/12/05-17:57:12.319 8dd8 Level-0 table #326: 24873 bytes OK
-2025/12/05-17:57:12.331 8dd8 Delete type=2 #9
-2025/12/05-17:57:12.331 8dd8 Delete type=2 #13
-2025/12/05-17:57:12.331 8dd8 Delete type=2 #16
-2025/12/05-17:57:12.332 8dd8 Delete type=0 #17
-2025/12/05-17:57:12.332 8dd8 Delete type=2 #19
-2025/12/05-17:57:12.332 8dd8 Delete type=0 #20
-2025/12/05-17:57:12.332 8dd8 Delete type=2 #24
-2025/12/05-17:57:12.332 8dd8 Delete type=0 #74
-2025/12/05-17:57:12.332 8dd8 Delete type=0 #92
-2025/12/05-17:57:12.332 8dd8 Delete type=2 #94
-2025/12/05-17:57:12.332 8dd8 Delete type=0 #95
-2025/12/05-17:57:12.332 8dd8 Delete type=0 #97
-2025/12/05-17:57:12.333 8dd8 Delete type=2 #103
-2025/12/05-17:57:12.333 8dd8 Delete type=0 #109
-2025/12/05-17:57:12.333 8dd8 Delete type=2 #115
-2025/12/05-17:57:12.333 8dd8 Delete type=0 #121
-2025/12/05-17:57:12.333 8dd8 Delete type=2 #127
-2025/12/05-17:57:12.333 8dd8 Delete type=0 #129
-2025/12/05-17:57:12.333 8dd8 Delete type=0 #131
-2025/12/05-17:57:12.333 8dd8 Delete type=0 #143
-2025/12/05-17:57:12.333 8dd8 Delete type=2 #149
-2025/12/05-17:57:12.333 8dd8 Delete type=2 #171
-2025/12/05-17:57:12.333 8dd8 Delete type=0 #180
-2025/12/05-17:57:12.333 8dd8 Delete type=2 #194
-2025/12/05-17:57:12.334 8dd8 Delete type=0 #214
-2025/12/05-17:57:12.334 8dd8 Delete type=2 #220
-2025/12/05-17:57:12.334 8dd8 Delete type=0 #252
-2025/12/05-17:57:12.334 8dd8 Delete type=0 #258
-2025/12/05-17:57:12.334 8dd8 Delete type=0 #268
-2025/12/05-17:57:12.334 8dd8 Delete type=0 #315
-2025/12/05-17:57:12.334 8dd8 Delete type=0 #321
-2025/12/05-17:57:12.334 8dd8 Delete type=0 #324
-2025/12/05-17:57:12.334 8dd8 Delete type=3 #15
-2025/12/05-17:57:12.334 8dd8 Delete type=3 #18
-2025/12/05-17:57:12.335 8dd8 Delete type=3 #73
-2025/12/05-17:57:12.335 8dd8 Delete type=3 #91
-2025/12/05-17:57:12.335 8dd8 Delete type=3 #93
-2025/12/05-17:57:12.335 8dd8 Delete type=3 #96
-2025/12/05-17:57:12.335 8dd8 Delete type=3 #108
-2025/12/05-17:57:12.335 8dd8 Delete type=3 #120
-2025/12/05-17:57:12.335 8dd8 Delete type=3 #128
-2025/12/05-17:57:12.335 8dd8 Delete type=3 #130
-2025/12/05-17:57:12.335 8dd8 Delete type=3 #142
-2025/12/05-17:57:12.335 8dd8 Delete type=3 #179
-2025/12/05-17:57:12.335 8dd8 Delete type=3 #213
-2025/12/05-17:57:12.335 8dd8 Delete type=3 #251
-2025/12/05-17:57:12.335 8dd8 Delete type=3 #257
-2025/12/05-17:57:12.336 8dd8 Delete type=3 #267
-2025/12/05-17:57:12.336 8dd8 Delete type=3 #313
-2025/12/05-17:57:12.336 8dd8 Delete type=3 #320
-2025/12/05-17:57:12.336 8dd8 Delete type=3 #322
-2025/12/05-23:38:09.084 2ddc Level-0 table #329: started
-2025/12/05-23:38:09.084 2ddc Level-0 table #329: 0 bytes OK
-2025/12/05-23:38:09.088 2ddc Delete type=0 #327
-2025/12/05-23:38:09.114 2ddc Manual compaction at level-0 from '!folders!075tI0VUewkXjnfc' @ 72057594037927935 : 1 .. '!macros!zIgOm9qT02b5h4lw' @ 0 : 0; will stop at '!macros!MlwFX8BiAI9Tlwd6' @ 255 : 1
-2025/12/05-23:38:09.114 2ddc Compacting 3@0 + 1@1 files
-2025/12/05-23:38:09.123 2ddc Generated table #330@0: 78 keys, 489557 bytes
-2025/12/05-23:38:09.123 2ddc Compacted 3@0 + 1@1 files => 489557 bytes
-2025/12/05-23:38:09.127 2ddc compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/12/05-23:38:09.127 2ddc Delete type=2 #316
-2025/12/05-23:38:09.127 2ddc Delete type=2 #318
-2025/12/05-23:38:09.127 2ddc Delete type=2 #323
-2025/12/05-23:38:09.127 2ddc Delete type=2 #326
-2025/12/05-23:38:09.128 2ddc Manual compaction at level-0 from '!macros!MlwFX8BiAI9Tlwd6' @ 255 : 1 .. '!macros!zIgOm9qT02b5h4lw' @ 0 : 0; will stop at (end)
+2026/01/02-15:17:52.850 52c8 Recovering log #404
+2026/01/02-15:17:52.859 52c8 Delete type=0 #404
+2026/01/02-15:17:52.859 52c8 Delete type=3 #403
+2026/01/02-15:50:59.715 ddb8 Level-0 table #408: started
+2026/01/02-15:50:59.715 ddb8 Level-0 table #408: 0 bytes OK
+2026/01/02-15:50:59.719 ddb8 Delete type=0 #406
+2026/01/02-15:50:59.719 ddb8 Manual compaction at level-0 from '!folders!075tI0VUewkXjnfc' @ 72057594037927935 : 1 .. '!macros!zIgOm9qT02b5h4lw' @ 0 : 0; will stop at (end)
