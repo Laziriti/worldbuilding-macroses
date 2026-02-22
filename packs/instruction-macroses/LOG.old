@@ -1,16 +1,14 @@
-2026/02/20-12:13:58.271 a28 Recovering log #771
-2026/02/20-12:13:58.271 a28 Level-0 table #773: started
-2026/02/20-12:13:58.276 a28 Level-0 table #773: 72104 bytes OK
-2026/02/20-12:13:58.284 a28 Delete type=0 #771
-2026/02/20-12:13:58.284 a28 Delete type=3 #770
-2026/02/20-12:29:52.075 9af0 Level-0 table #776: started
-2026/02/20-12:29:52.076 9af0 Level-0 table #776: 0 bytes OK
-2026/02/20-12:29:52.079 9af0 Delete type=0 #774
-2026/02/20-12:29:52.083 9af0 Manual compaction at level-0 from '!folders!3514Y0GD9rPihU3J' @ 72057594037927935 : 1 .. '!journal.pages!xZ4nxFStbOBKg3LM.x2rhQv0lEz0SyvdR' @ 0 : 0; will stop at '!journal.pages!xZ4nxFStbOBKg3LM.x2rhQv0lEz0SyvdR' @ 1270 : 1
-2026/02/20-12:29:52.083 9af0 Compacting 1@0 + 1@1 files
-2026/02/20-12:29:52.088 9af0 Generated table #777@0: 112 keys, 89884 bytes
-2026/02/20-12:29:52.088 9af0 Compacted 1@0 + 1@1 files => 89884 bytes
-2026/02/20-12:29:52.091 9af0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/02/20-12:29:52.091 9af0 Delete type=2 #769
-2026/02/20-12:29:52.092 9af0 Delete type=2 #773
-2026/02/20-12:29:52.101 9af0 Manual compaction at level-0 from '!journal.pages!xZ4nxFStbOBKg3LM.x2rhQv0lEz0SyvdR' @ 1270 : 1 .. '!journal.pages!xZ4nxFStbOBKg3LM.x2rhQv0lEz0SyvdR' @ 0 : 0; will stop at (end)
+2026/02/22-11:25:10.871 f278 Recovering log #789
+2026/02/22-11:25:10.879 f278 Delete type=0 #789
+2026/02/22-11:25:10.879 f278 Delete type=3 #788
+2026/02/22-15:46:01.329 8114 Level-0 table #793: started
+2026/02/22-15:46:01.335 8114 Level-0 table #793: 94632 bytes OK
+2026/02/22-15:46:01.339 8114 Delete type=0 #791
+2026/02/22-15:46:01.352 8114 Manual compaction at level-0 from '!folders!3514Y0GD9rPihU3J' @ 72057594037927935 : 1 .. '!journal.pages!xZ4nxFStbOBKg3LM.x2rhQv0lEz0SyvdR' @ 0 : 0; will stop at '!journal.pages!xZ4nxFStbOBKg3LM.x2rhQv0lEz0SyvdR' @ 1286 : 1
+2026/02/22-15:46:01.352 8114 Compacting 1@0 + 1@1 files
+2026/02/22-15:46:01.357 8114 Generated table #794@0: 112 keys, 90939 bytes
+2026/02/22-15:46:01.357 8114 Compacted 1@0 + 1@1 files => 90939 bytes
+2026/02/22-15:46:01.360 8114 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/22-15:46:01.361 8114 Delete type=2 #785
+2026/02/22-15:46:01.361 8114 Delete type=2 #793
+2026/02/22-15:46:01.364 8114 Manual compaction at level-0 from '!journal.pages!xZ4nxFStbOBKg3LM.x2rhQv0lEz0SyvdR' @ 1286 : 1 .. '!journal.pages!xZ4nxFStbOBKg3LM.x2rhQv0lEz0SyvdR' @ 0 : 0; will stop at (end)
