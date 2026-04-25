@@ -1,14 +1,14 @@
-2026/04/02-20:44:00.597 8108 Recovering log #1007
-2026/04/02-20:44:00.606 8108 Delete type=0 #1007
-2026/04/02-20:44:00.606 8108 Delete type=3 #1005
-2026/04/02-22:37:04.095 7224 Level-0 table #1013: started
-2026/04/02-22:37:04.099 7224 Level-0 table #1013: 61616 bytes OK
-2026/04/02-22:37:04.102 7224 Delete type=0 #1011
-2026/04/02-22:37:04.118 7224 Manual compaction at level-0 from '!folders!3514Y0GD9rPihU3J' @ 72057594037927935 : 1 .. '!journal.pages!xZ4nxFStbOBKg3LM.x2rhQv0lEz0SyvdR' @ 0 : 0; will stop at '!journal.pages!xZ4nxFStbOBKg3LM.x2rhQv0lEz0SyvdR' @ 1735 : 1
-2026/04/02-22:37:04.118 7224 Compacting 1@0 + 1@1 files
-2026/04/02-22:37:04.122 7224 Generated table #1014@0: 123 keys, 110006 bytes
-2026/04/02-22:37:04.122 7224 Compacted 1@0 + 1@1 files => 110006 bytes
-2026/04/02-22:37:04.125 7224 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/04/02-22:37:04.126 7224 Delete type=2 #1009
-2026/04/02-22:37:04.126 7224 Delete type=2 #1013
-2026/04/02-22:37:04.133 7224 Manual compaction at level-0 from '!journal.pages!xZ4nxFStbOBKg3LM.x2rhQv0lEz0SyvdR' @ 1735 : 1 .. '!journal.pages!xZ4nxFStbOBKg3LM.x2rhQv0lEz0SyvdR' @ 0 : 0; will stop at (end)
+2026/04/25-12:19:00.448 3100 Recovering log #1048
+2026/04/25-12:19:00.457 3100 Delete type=0 #1048
+2026/04/25-12:19:00.457 3100 Delete type=3 #1047
+2026/04/25-13:55:25.116 abd8 Level-0 table #1052: started
+2026/04/25-13:55:25.120 abd8 Level-0 table #1052: 115815 bytes OK
+2026/04/25-13:55:25.124 abd8 Delete type=0 #1050
+2026/04/25-13:55:25.124 abd8 Manual compaction at level-0 from '!folders!3514Y0GD9rPihU3J' @ 72057594037927935 : 1 .. '!journal.pages!xZ4nxFStbOBKg3LM.x2rhQv0lEz0SyvdR' @ 0 : 0; will stop at '!journal.pages!xZ4nxFStbOBKg3LM.x2rhQv0lEz0SyvdR' @ 1778 : 1
+2026/04/25-13:55:25.124 abd8 Compacting 1@0 + 1@1 files
+2026/04/25-13:55:25.129 abd8 Generated table #1053@0: 126 keys, 119365 bytes
+2026/04/25-13:55:25.129 abd8 Compacted 1@0 + 1@1 files => 119365 bytes
+2026/04/25-13:55:25.133 abd8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/04/25-13:55:25.133 abd8 Delete type=2 #1020
+2026/04/25-13:55:25.133 abd8 Delete type=2 #1052
+2026/04/25-13:55:25.407 abd8 Manual compaction at level-0 from '!journal.pages!xZ4nxFStbOBKg3LM.x2rhQv0lEz0SyvdR' @ 1778 : 1 .. '!journal.pages!xZ4nxFStbOBKg3LM.x2rhQv0lEz0SyvdR' @ 0 : 0; will stop at (end)
